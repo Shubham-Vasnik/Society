@@ -1,0 +1,68 @@
+{
+    "societies":{
+        "status": "success",
+        "message": "Data for society",
+        "data": [{
+                "society_id": "qwerty",
+                "society_name": "Salasar Park",
+                "address": "150 feet road, Bhayandar west",
+                "pincode": "401101",
+                "society_code": "AJ6NQAF11D",
+                "society_class": "CLASS A",
+                "society_pan": "JQM&NNQ!J",
+                "society_members": 123
+            },
+            {
+                "society_id": "qwerty1",
+                "society_name": "Salasar Park",
+                "address": "150 feet road, Bhayandar west",
+                "pincode": "401101",
+                "society_code": "AJ6NQAF11D",
+                "society_class": "CLASS A",
+                "society_pan": "JQM&NNQ!J",
+                "society_members": 123
+            },
+            {
+                "society_id": "qwerty2",
+                "society_name": "Salasar Park",
+                "address": "150 feet road, Bhayandar west",
+                "pincode": "401101",
+                "society_code": "AJ6NQAF11D",
+                "society_class": "CLASS A",
+                "society_pan": "JQM&NNQ!J",
+                "society_members": 123
+            },
+            {
+                "society_id": "qwerty3",
+                "society_name": "Salasar Park",
+                "address": "150 feet road, Bhayandar west",
+                "pincode": "401101",
+                "society_code": "AJ6NQAF11D",
+                "society_class": "CLASS A",
+                "society_pan": "JQM&NNQ!J",
+                "society_members": 123
+            },
+            {
+                "society_id": "qwerty4",
+                "society_name": "Salasar Park",
+                "address": "150 feet road, Bhayandar west",
+                "pincode": "401101",
+                "society_code": "AJ6NQAF11D",
+                "society_class": "CLASS A",
+                "society_pan": "JQM&NNQ!J",
+                "society_members": 123
+            },
+            {
+                "society_id": "qwerty5",
+                "society_name": "Salasar Park",
+                "address": "150 feet road, Bhayandar west",
+                "pincode": "401101",
+                "society_code": "AJ6NQAF11D",
+                "society_class": "CLASS A",
+                "society_pan": "JQM&NNQ!J",
+                "society_members": 123
+            }
+        ]
+    }
+}
+ 
