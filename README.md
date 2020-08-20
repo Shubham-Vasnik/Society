@@ -20,7 +20,7 @@
 
 3. After that navigate to Backend folder and open terminal in that directory and run "npm start" command
 
-4. The project should be running on "http://localhost:3001/"
+4. The project should be running on "http://localhost:3000/"
 
 
 
